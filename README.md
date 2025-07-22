@@ -37,8 +37,8 @@ This project is a Laravel-based API that allows users to log in using GitHub OAu
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <project-directory>
+git clone https://github.com/Alixx24/laravel_iran_technology.git
+
 ```
 
 2. Install dependencies:
